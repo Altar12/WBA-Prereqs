@@ -1,2 +1,3 @@
 /solana-ts/airdrop/node_modules/
 /solana-ts/airdrop/dev-wallet.json
+/rust/target
